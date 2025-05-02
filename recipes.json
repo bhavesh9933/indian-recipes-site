@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Paneer Tikka",
+      "description": "A spicy, grilled paneer delight.",
+      "image": "images/paneer-tikka.jpg",
+      "url": "recipes/paneer-tikka.html"
+    },
+    {
+      "title": "Aloo Gobi",
+      "description": "Classic curried cauliflower and potatoes.",
+      "image": "images/aloo-gobi.jpg",
+      "url": "recipes/aloo-gobi.html"
+    }
+   
+  ]
+  
